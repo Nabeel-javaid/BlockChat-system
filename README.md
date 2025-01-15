@@ -17,15 +17,13 @@ This phase includes the following deliverables:
 
 ### **Tasks and Timeline**
 
-#### **1. Finalize Project Scope (2 Days)**
+#### **1. Finalize Project Scope (1 Days)**
    - **Tasks**:
-     - Conduct a stakeholder meeting to finalize the features and functionalities of the Proof-of-Love algorithm and distribution system.
-     - Document the requirements in a **Project Charter**.
+     - Conduct a meeting to finalize the features and functionalities of the Proof-of-Love algorithm and distribution system.
    - **Deliverables**:
      - A clear list of features and deliverables.
-     - A signed-off Project Charter.
 
-#### **2. Set Up Development Environment (3 Days)**
+#### **2. Set Up Development Environment (2 Days)**
    - **Tasks**:
      - Install and configure the following tools:
        - **Node.js** and **TypeScript** for backend development.
@@ -35,7 +33,7 @@ This phase includes the following deliverables:
      - A fully configured development environment.
      - Automated testing and deployment pipelines.
 
-#### **3. Develop the Proof-of-Love Algorithm (5 Days)**
+#### **3. Develop the Proof-of-Love Algorithm (7 Days)**
    - **Tasks**:
      - Define how contributions will be tracked (e.g., GitHub commits, Discord activity).
      - Create a formula for calculating contribution points based on involvement levels (FULL-ON, INTERMEDIATE, RELAXED).
@@ -70,9 +68,9 @@ This phase includes the following deliverables:
 ### **Timeline**
 | **Task**                     | **Time Required**
 |-------------------------------|-------------------
-| Finalize Project Scope        | 2 days           
-| Set Up Development Environment| 3 days            
-| Develop the Proof-of-Love Algorithm | 5 days     
+| Finalize Project Scope        | 1 days           
+| Set Up Development Environment| 2 days            
+| Develop the Proof-of-Love Algorithm | 7 days     
 | Build the Distribution System | 7 days           
 | **Total**                     | **17 days**       
 
