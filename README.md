@@ -102,9 +102,10 @@ This phase includes the following deliverables:
 
 ---
 
+### Note the timeline provided is tentative and is subjected to change
+
 ### **Next Steps**
 Once Phase 1 is complete, the project will move to **Phase 2: 3D/AI Integration**, where the focus will shift to creating BWen’s 3D avatar and integrating it with AI capabilities for metaverse and multimedia projects.
 
 ---
 
-This updated execution plan includes **Questions** and **Assumptions** to address potential uncertainties and provide clarity on the project’s foundational aspects. Let me know if you need further adjustments or assistance! 🚀
