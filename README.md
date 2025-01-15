@@ -76,5 +76,35 @@ This phase includes the following deliverables:
 
 ---
 
+
+
+
+### **Questions**
+1. **Do we need to do this task on Eliza, or can we do it without Eliza?**
+   - Can the Proof-of-Love algorithm and distribution system be developed independently of the Eliza AI agent?
+   - If Eliza is required, what specific features or plugins should be utilized?
+
+2. **How will the wallet have the funds to distribute?**
+   - Will the Solana wallet be pre-funded with SOL tokens for distribution?
+
+
+3. **How are contributions weighted?**
+   - Should all contributions be treated equally?
+
+
+
+---
+
+### **Assumptions**
+1. **Contributions**:
+   - We are assuming that contributions primarily refer to **GitHub activity** (e.g., commits, pull requests, issues).
+
+
+---
+
 ### **Next Steps**
 Once Phase 1 is complete, the project will move to **Phase 2: 3D/AI Integration**, where the focus will shift to creating BWen’s 3D avatar and integrating it with AI capabilities for metaverse and multimedia projects.
+
+---
+
+This updated execution plan includes **Questions** and **Assumptions** to address potential uncertainties and provide clarity on the project’s foundational aspects. Let me know if you need further adjustments or assistance! 🚀
